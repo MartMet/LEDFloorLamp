@@ -33,6 +33,10 @@ The numeric buttons on the remote control can be used to start a sleep timer. Af
 * 3 = 30 min 
 etc.
 
+### View in Action ###
+
+![LED floor lamp](/images/LEDFloorLamp.gif)
+
 ### Credits ###
 
 * The Arduino RC5 remote control decoder library can be found at  [RC5](https://github.com/guyc/RC5)
